@@ -1,4 +1,4 @@
-# siit10-todo-landing-page
+# Landing page for the Todo-list web app (https://siit10-todo-list.herokuapp.com/)
 
 * I've used played a bit with CSS and created a landing page for the web app that I've developed. 
 
